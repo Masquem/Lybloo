@@ -1,0 +1,7 @@
+.demo-layout-transparent {
+  background: url('Lybloo_cover.png') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  color: black;
+}
